@@ -5,3 +5,4 @@ The course requires this to be a public repository, hence why it is available he
 
 ## Lecture Log
 - **03.09.2026** - Introduction to course, administrative explanations
+- **10.09.2026** - Python Basics
