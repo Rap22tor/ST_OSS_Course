@@ -4,3 +4,4 @@ This repository contains all code for the Open Source Software Course im doing d
 The course requires this to be a public repository, hence why it is available here.
 
 ## Lecture Log
+- **03.09.2026** - Introduction to course, administrative explanations
